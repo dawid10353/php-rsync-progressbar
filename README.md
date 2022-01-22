@@ -2,6 +2,8 @@
 Easy way to make a progress bar for rsync. Use it only on localhost or secure server.
 
 What you need to install it?
+- Linux
+- Rsync
 - Apache
 - PHP
 
