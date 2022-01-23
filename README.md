@@ -6,7 +6,8 @@ What you need to install it?
 - Rsync
 - Apache
 - PHP
-or just
+
+Or just
 - Docker
 
 <h1>How to install it</h1>
