@@ -1,5 +1,6 @@
 # php-rsync-progressbar
-Easy way to make a progress bar for rsync. Use it only on localhost or secure server.
+Easy way to make a progress bar for rsync on a PHP site. 
+Use it only on localhost or secure server.
 
 What you need to install it?
 - Linux
