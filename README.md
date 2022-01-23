@@ -23,11 +23,15 @@ What you need to install it?
 
 <h1>How to install it on docker</h1>
 
-<code>docker push dawid10353/easy-php-rsync:version1</code>
+<code>docker pull dawid10353/easy-php-rsync:version1</code>
+
+<h1>How it works</h1>
+
+<h2>Screen</h2>
 
 ![screen](https://user-images.githubusercontent.com/46601922/150658304-3c329f9e-23f5-4471-b77c-051de4ffa80f.png)
 
-<h1>How it works</h1>
+<h2>Video</h2>
 
 https://user-images.githubusercontent.com/46601922/150658321-ac209992-99f7-47ba-bdc3-72b41e508495.mp4
 
