@@ -7,7 +7,7 @@ What you need to install it?
 - Apache
 - PHP
 
-<h1>How install it</h1>
+<h1>How to install it</h1>
 
 1. Go to document root on your server. For example:
 <code>cd /var/www/html</code>
@@ -20,6 +20,10 @@ What you need to install it?
 <code>chmod 777 php-rsync-progressbar -R</code>
 
 4. Thats it.
+
+<h1>How to install it on docker</h1>
+
+<code>docker push dawid10353/easy-php-rsync:version1</code>
 
 ![screen](https://user-images.githubusercontent.com/46601922/150658304-3c329f9e-23f5-4471-b77c-051de4ffa80f.png)
 
