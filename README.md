@@ -13,17 +13,22 @@ What you need to install it?
 <code>cd /var/www/html</code>
 
 2. Clone repository
-<code>git clone git@github.com:dawid10353/php-rsync-progressbar.git</code>
-
+```
+git clone git@github.com:dawid10353/php-rsync-progressbar.git
+```
 3. Set correct privileges (Remember on RHEL disable SELINUX or set it correctly) 
 
-<code>chmod 777 php-rsync-progressbar -R</code>
+```
+chmod 777 php-rsync-progressbar -R
+```
 
 4. Thats it.
 
 <h1>How to install it on docker</h1>
 
-<code>docker pull dawid10353/easy-php-rsync:version1</code>
+```
+docker pull dawid10353/easy-php-rsync:version1
+```
 
 <h1>How it works</h1>
 
